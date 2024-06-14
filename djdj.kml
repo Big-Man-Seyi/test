@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="iconStyle">
+      <IconStyle>
+        <Icon>
+          <href>https://raw.githubusercontent.com/Big-Man-Seyi/test/main/file-format-56-1024.png</href>
+        </Icon>
+        <hotSpot x="12" y="41" xunits="pixels" yunits="pixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <styleUrl>#iconStyle</styleUrl>
+      <Point>
+        <coordinates>102.0,0.5,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
