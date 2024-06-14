@@ -1,0 +1,21 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [102.0, 0.5]
+        },
+        "properties": {
+          "icon": {
+            "iconUrl": "https://raw.githubusercontent.com/Big-Man-Seyi/test/main/file-format-56-1024.png",
+            "iconSize": [25, 41],
+            "iconAnchor": [12, 41], 
+            "popupAnchor": [1, -34] 
+          }
+        }
+      }
+    ]
+  }
+  
