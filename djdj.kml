@@ -4,7 +4,7 @@
     <Style id="iconStyle">
       <IconStyle>
         <Icon>
-          <href>https://raw.githubusercontent.com/Big-Man-Seyi/test/main/file-format-56-1024.png</href>
+          <href>https://maps.google.com/mapfiles/kml/paddle/ylw-blank.png</href>
         </Icon>
         <hotSpot x="12" y="41" xunits="pixels" yunits="pixels"/>
       </IconStyle>
