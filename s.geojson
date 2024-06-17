@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "iconCategory": 8,
+          "events": [
+            {
+              "description": "Closed"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [4.8905708978, 52.3716625745],
+            [4.8902865837, 52.371635759],
+            [4.8897166142, 52.3715780851],
+            [4.8893679271, 52.3715365312]
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "iconCategory": 8,
+          "events": [
+            {
+              "description": "Closed"
+            },
+            {
+              "description": "Roadworks"
+            }
+          ]
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [4.8895074019, 52.3722915572],
+            [4.8896079848, 52.3723170418],
+            [4.8899741063, 52.3724243532],
+            [4.8900585959, 52.3724497866],
+            [4.8905051837, 52.3725906164],
+            [4.8905615101, 52.372606736],
+            [4.8906352708, 52.3726255167],
+            [4.890714396, 52.3726429157]
+          ]
+        }
+      }
+    ]
+  }
+  
